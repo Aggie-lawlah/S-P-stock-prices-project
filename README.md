@@ -1,0 +1,2 @@
+# S-P-stock-prices-project
+In this analysis, I will be answering few questions on historical stock market data for current S&amp;P 500 companies, from 2014-2017. Each record represents a single day of trading, and includes the ticker name, volume, high, low, open and close prices.[S&P+500+Stock+Prices+2014-2017.csv.zip](https://github.com/Aggie-lawlah/S-P-stock-prices-project/files/10429360/S.P%2B500%2BStock%2BPrices%2B2014-2017.csv.zip)
